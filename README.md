@@ -1,6 +1,6 @@
 # FSKS
 
-This is a code repo for "Fast and Secure Two-Party Kolmogorov-Smirnov Test", proposing a Fast and Secure KS (FSKS) test protocol. This protocol offers an efficient and privacy-preserving solution to conduct accurate two-party KS tests. 
+## This is a dummy Repo for the paper of "Fast and Secure Two-Party Kolmogorov-Smirnov Test" as the paper is still under review.
 
 ## The Files and Directories ##
 
